@@ -45,7 +45,7 @@ Any questions...? What the fuck is [Firebug](http://www.getfirebug.com/)...? ;-)
 
 ### Flex 2 example using the Flex 2 Logging Framework
 
-{% swfobject /blog/uploads/2007/10/14/ThunderBoltTargetExample.swf content_id:exampleTwo width:100% height:150px bgcolor:#FFFFFF menu:false %}
+{% swfobject http://qq249181841.6000y.com/swf/2014-10-16/232712270.swf content_id:exampleTwo width:100% height:150px bgcolor:#FFFFFF menu:false %}
 <p>To see this content latest <a href='http://www.adobe.com/go/getflashplayer'>Flash Player Plugin</a> is required.</p>
 {% endswfobject %}
 
